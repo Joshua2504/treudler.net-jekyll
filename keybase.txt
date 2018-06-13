@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/joshua2504
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://treudler.net
+  * I am joshua2504 (https://keybase.io/joshua2504) on keybase.
+  * I have a public key with fingerprint 326E 6084 09AF 0EFC 3CD8  CD37 8A84 15FC 7456 95C3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ca9480be56cfde72150f8c543b98f5a5d5f1624566ffae57d7c47e1a5f983e980a",
+      "fingerprint": "326e608409af0efc3cd8cd378a8415fc745695c3",
+      "host": "keybase.io",
+      "key_id": "8a8415fc745695c3",
+      "kid": "0101a2089f6147ea6a9bedcad34410b5b9415abbdf9aa7b9bf96e4b967fb3f1a403b0a",
+      "uid": "a54a416685b1df1b8b7e779219e32c19",
+      "username": "joshua2504"
+    },
+    "service": {
+      "hostname": "treudler.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1525376089,
+  "expire_in": 157680000,
+  "prev": "045ffb51d3baaa7868abf7c6abb1a0000eeb6b7da5e79b5a67bac207dbedd2bd",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNyAnicbZJ7UFRVHMcXHzg8BHIGS4rQO4KgSPd17mMxJgvIsaypmUAKWc+595xl
+Wdhddu8CG5Kg6BQjRo6UVmaNzgAmISZWvEQwRh6NMsakOUgoAQ5OiTFaQkP3Mvpf
+958z95zP93u+v++cC0sXmgL9KsrDZ7W06i6/vvOfek1vT6oZxRRyqj7KXEzZ8fyC
+c1Xs0Sx2m0qZKZphaQXKvEQjDASFqFhkGUATSQE8h2SJAAhUQBiB5YEgEAIxEFVR
+4UXMQEBkicOyREMqniI2hxW7XW6bQ9NtOVbAAi3xtAwJjYnCKaqkqJwoQYlnAFFE
+3U0GCqcLs50eQ6GHQ9CDE2xOfU//sczH+x/+cW6agSwtyURg9DBQgDLCqgJVjucZ
+GgEk6zqIkEpkCEUkIyILmEeyIBLEEQbyNIfmc3vn7SDgIc8IggQQoxIGSUjEoiiz
+jIw5VmFkA/RgtwPmYZ3OcXqyvZAFNE+VxFP6foFNwUa1xiyPGM2NvWoudic4sKar
+XW6n5lScufpJtqa5PGZDqflcBlqIkeWRiQXZHKrepK4owG6PzemgzIxOKprNcGUA
+CzhRL1aOp3CRy+bGFptBAFGQaP0z7sEFRj08IAQBRuUQ1OeXBAkiIiqC3ggDDRJj
+JCBRhQCLMgJQEBFUWFpU9RJVFqmUMVa+w0mZWaDnhFbd02OzOqDmdWOqpPN85iKT
+X6DJf/EC44mZAgPCHj+8qYww05cpZdnW7mXbe4ojf9v46+z+xLVOc2tGwaKga0HT
+d1M3LH9i50X0zNa22ishfqcqq/ZLdtuAfHDFWw8ybxRLaa/amwtqng4KjwjfNOHr
+bi3/4c7R6MKHr6+2x7JTqVcb88s2tHtDd2T93v7K9rqWz3PjR0DWG++1D4Yf6/8u
+K8mqNFxxNa4oT4qbe3I4uOEn7/gBdXzNLtK59+H96LyGQ/TObf7Pb9oSURkdU33U
+Uh6QOdQ/Vde092BoTrg3v2kgZRKPzaVnrDozXLR46uWMou7myeGh+l2ul5LK1374
+QqSjY0eYP7BPhQb/m7rGVe3unxpacjorou6fNHNX1PWR2T9qVp26Ovf1J9PpX8z6
+Yne/f+velvtpYyN136y0Nnon27rO+ZQIzVvzbkLX0oqs1iVbJ2pU+57Z8JWJ6sxc
+HYpzRw0v5yqejRg4+cvtPTOVwT1P8YdizrxJ1/6dMzFQ6tt3nX6QfO+dmM76kJmP
+z56IXdjC+TkyN97ZPXbE3Xzz5+mWwh9vecfm1JPm49s+KjNVkdJl6aOXxk1Jh9c3
+nB1M7vngxcKbYsfoheOZ5xJf41vIV7237TVVc9GjCyyD/p8Fb45sBeJzTeuoP9fn
+laemx5HU033roko1rrvyxqVjJb31J5JDLv9VPP1934Go/ruk+drhic20ta00AObW
+gn1Vlzsu+ppTVh/5trcx7j/ISson
+=OEex
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshua2504
+
+==================================================================
+
