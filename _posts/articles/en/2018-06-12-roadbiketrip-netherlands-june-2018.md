@@ -17,7 +17,7 @@ categories: articles
 
 ## This is currently being translated to english :)
 
-Vor ein paar Wochen entschied ich mich dazu, Jarno in den Niederlanden zu besuchen. Er hatte mich bis zum Schluss als meine rechte Hand während meiner Selbstständigkeit unterstützt, und da wir während dieser Zeit gute Freunde wurden, war es mir sehr wichtig, ihn persönlich kennenzulernen. Da ich sowieso in den nächsten Monaten eine größere Rennrad-Tour durch Europa machen werde, war das auch eine gute Möglichkeit, ein wenig zu trainieren und auszuprobieren, wie viel ich auf meinem Rennrad transportieren kann.
+A few weeks ago I made the decision to visit Jarno in the Netherlands. Er hatte mich bis zum Schluss als meine rechte Hand während meiner Selbstständigkeit unterstützt, und da wir während dieser Zeit gute Freunde wurden, war es mir sehr wichtig, ihn persönlich kennenzulernen. Da ich sowieso in den nächsten Monaten eine größere Rennrad-Tour durch Europa machen werde, war das auch eine gute Möglichkeit, ein wenig zu trainieren und auszuprobieren, wie viel ich auf meinem Rennrad transportieren kann.
 
 Der ursprüngliche Plan sah vor, dass ich am Dienstag von Bremerhaven nach Wilhelmshaven fahren würde, abends einen Freund in Schortens besuche und die Nacht in Wilhelmshaven verbracht hätte. Von dort aus sollte ich am Mittwoch nach Emmen in die Niederlande fahren und Jarno treffen. So hatte ich die Route eigentlich vorbereitet:
 
