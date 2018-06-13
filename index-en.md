@@ -22,7 +22,6 @@ If you want to know what has happened to Treudler, my hosting company, [click he
 This page is also available in [Deutsch](deutsch.html), but I don't really maintain the german version at this time as I'm busy with other things.
 
 <h2>My latest blog posts</h2>
-Some blog posts might only be available in german at this time, but I'm trying to translate them to english as soon as possible. Check the [german](deutsch.html) website to find more posts.
 <div>&nbsp;</div>
 {% include list-category-posts.html lang=page.lang category="articles" %}
 
