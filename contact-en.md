@@ -28,7 +28,7 @@ I'm too lazy for that. I know that this contact form looks bad, but it's fine fo
   <button type="submit">Submit</button>
 </form>
 
-*Please note that pressing "Submit" will redirect you to [Formspree](https://formspree.io/){:target="_blank"}. They'll forward your message to me through email. This website is containing static content only, so no chance to send emails on my own as of now. If you want to avoid formspree, simply send an email to joshua at treudler dot net.*
+*Please note that pressing "Submit" will redirect you to [Formspree](https://formspree.io/){:target="_blank"}. They'll forward your message to me through email. This website is containing static content only, so no chance to send emails on my own as of now. If you want to avoid formspree, simply send an email to ![](/assets/img/joshua-at-treudler-net.png).*
 
 For any legal concerns, please send a letter to my mailing address listed on the [Imprint](imprint.html) page.
 

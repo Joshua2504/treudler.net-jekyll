@@ -26,7 +26,7 @@ Ich bin leider zu faul, dieses Kontaktformular zu überarbeiten, aber es reicht 
   <button type="submit">Absenden</button>
 </form>
 
-*Bitte beachte: Ein Klick auf "Absenden" leitet dich zu [Formspree](https://formspree.io/){:target="_blank"} weiter um deine Nachricht per Email an mich zuzustellen. Diese Internetseite besteht ausschließlich aus statischem Inhalt, dadurch ergibt sich für mich keine Möglichkeit die Nachricht selbst zu versenden. Wenn du Formspree nicht verwenden möchtest, kannst du auch eine Email an joshua at treudler dot net schicken.* 
+*Bitte beachte: Ein Klick auf "Absenden" leitet dich zu [Formspree](https://formspree.io/){:target="_blank"} weiter um deine Nachricht per Email an mich zuzustellen. Diese Internetseite besteht ausschließlich aus statischem Inhalt, dadurch ergibt sich für mich keine Möglichkeit die Nachricht selbst zu versenden. Wenn du Formspree nicht verwenden möchtest, kannst du auch eine Email an ![](/assets/img/joshua-at-treudler-net.png) schicken.* 
 
 Für rechtliche Anfragen bevorzuge ich eine postalische Anfrage an die in meinem [Impressum](imprint.html) hinterlegte Adresse.
 
