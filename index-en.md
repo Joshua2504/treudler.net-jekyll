@@ -8,7 +8,7 @@
 layout: home
 permalink: /index.html
 header:
-  image: /assets/img/header/2018-03-31-bremerhaven-hw-desc.jpg
+  image: /assets/img/header/2018-06-14-index.gif
 tagline: > # this means to ignore newlines until "repository:"
   Moin moin!
 excerpt: >
