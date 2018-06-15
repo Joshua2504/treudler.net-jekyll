@@ -10,7 +10,7 @@ header:
 ref: imprint
 lang: de
 order: 5
-menu: none
+menu: footer
 ---
 
 # Impressum

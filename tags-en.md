@@ -4,7 +4,7 @@ permalink: /tags.html
 header:
    image: /assets/img/header/2018-03-31-tags.jpg
 title: Tags
-menu: none
+menu: footer
 order: 2
 lang: en
 ---

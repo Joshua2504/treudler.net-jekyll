@@ -51,6 +51,7 @@
       <svg class="my-svg-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 102 102"><defs><style>.cls-1{fill:#0;}.cls-2{fill:#fff;}</style></defs><title>integration-gitlab-01</title><circle class="cls-1" cx="51" cy="51" r="51"/><g id="Page-1"><g id="logo-square"><g id="logo-no-bg"><path id="path50" class="cls-2" d="M52,83.81h0L64.2,46.27H39.8L52,83.81Z"/><path id="path58" class="cls-1" d="M52,83.81,39.8,46.27H22.71L52,83.81Z"/><path id="path66" class="cls-2" d="M22.71,46.27h0L19,57.67a2.53,2.53,0,0,0,.92,2.82L52,83.81,22.71,46.27Z"/><path id="path74" class="cls-2" d="M22.71,46.27H39.8L32.46,23.66a1.26,1.26,0,0,0-2.4,0L22.71,46.27Z"/><path id="path78" class="cls-1" d="M52,83.81,64.2,46.27H81.29L52,83.81Z"/><path id="path82" class="cls-2" d="M81.29,46.27h0L85,57.67a2.53,2.53,0,0,1-.92,2.82L52,83.81,81.29,46.27Z"/><path id="path86" class="cls-2" d="M81.29,46.27H64.2l7.35-22.61a1.26,1.26,0,0,1,2.4,0l7.35,22.61Z"/></g></g></g></svg>
     </a>
   </span>
+
   {% endif %}
 
   <!-- RSS icon -->
@@ -64,12 +65,19 @@
   {% assign contact_page = site.pages | where:"ref", "imprint" | where:"lang", page.lang  | first %}
   {% if contact_page.title %}
     <span class="my-span-icon">
-	<a href="/tags.html" aria-label="Tags" title="Tags">
-		Tags
-      </a>|
-      <a href="{{ site.t[page.lang].imprint-l }}.html" aria-label="{{ site.t[page.lang].imprint }}" title="{{ site.t[page.lang].imprint }} {{ site.author.name }}">
-		{{ site.t[page.lang].imprint }}
-      </a>
+      {% for path in page_paths %}
+        {% assign my_page = site.pages | where: "path", path | first %}
+
+        {% if my_page.title %}
+          {% if my_page.title contains "404" %}
+          {% else %}
+   {% if my_page.menu == 'footer' %}
+            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title | escape }}</a> |
+         {% endif %}
+    {% endif %}
+        {% endif %}
+
+      {% endfor %}
     </span>
   {% endif %}
 	<br>Fully static website powered by <a href="//www.jekyllrb.com/" target="_blank">Jekyll</a> building on my <a href="//www.raspberrypi.org/" target="_blank">Raspberry Pi</a> and served by <a href="//www.bunnycdn.com/" target="_blank">BunnyCDN</a>.

@@ -10,7 +10,7 @@ header:
 ref: imprint
 lang: en
 order: 5
-menu: none
+menu: footer
 ---
 # Legal Disclosure
 
