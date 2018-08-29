@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Joshua Treudler
+title: Joshua T. Treudler
 email: joshua@treudler.net
 description: > # this means to ignore newlines until "baseurl:"
-  Some text has to go here, but I have no idea. Welcome to my website.
+   I'm Joshua, age 21, riding my cyclocross roadbike nearly 24/7/365. Since a couple of months, I’m doing longer bikepacking trips within Europe. I’m also working as Webmaster for different projects.
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://www.treudler.net/" # change this to the base hostname & protocol for your site
+url: "https://joshua.treudler.net/" # change this to the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -83,6 +83,7 @@ t:
   en:
     latest-posts:  "My latest blog posts"
     read-more:  "read the full story"
+    read-tutorial: "read this tutorial"
     on-word: "on"
     contact: "Contact"
     contact-page: "contact-en.md"
@@ -108,6 +109,7 @@ t:
   de:
     latest-posts:  "Meine letzten Posts"
     read-more:  "den ganzen Post lesen"
+    read-tutorial: "diese Anleitung lesen"
     on-word: "zur"
     contact: "Kontakt"
     contact-page: "contact-de.md"
@@ -130,7 +132,10 @@ t:
       october: "Okt"
       november: "Nov"
       december : "Dez"
+    planned-trips: "Geplante Touren"
+    planned-trips-url: "geplante-touren.html"
 
+      
 defaults:
   -
     scope:

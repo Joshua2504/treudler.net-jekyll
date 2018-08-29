@@ -16,6 +16,19 @@ This is a [now page](http://nownownow.com/about){:target="_blank"}, and it was i
 
 _Updated on_ **30 March 2018**.
 
-Here I'll write what I'm up to now.
+<center>
+
+### What I'm doing now
+
+</center>
+
+#### Personally
+
+*Roadbiking*
+* at least 20 kilometers a day
+* faster
+* further
+* not training for a marathon
+* 
 
 {% include go-to-home-page.html %}

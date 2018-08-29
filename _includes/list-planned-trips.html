@@ -5,10 +5,6 @@
 <ul class="post-list">
     {% for post in posts_lang limit:max_posts %}
       <li>
-        {% if site.show_post_image_posts_list %}
-          <div style="height:140px;width=100%;margin-bottom:13px;background:url('{{post.header.previmage | prepend: site.baseurl }}') center center repeat;">
-          </div>
-        {% endif %}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title | escape }}</a>
         </h2>
@@ -17,7 +13,7 @@
           {% include post-meta-info.html post_date=post.date post_url=post.url post_lang=post.lang %}
         </div>
 
-        <!-- span>{{ post.excerpt | default: post.tagline | markdownify | truncatewords: 0 }}<!-- /span -->
+        <span>{{ post.excerpt | default: post.tagline | markdownify | truncatewords: 10 }}<!-- /span -->
 
         {%if post.tags.size > 0 %}
         <div class="post-meta-list post-tag-list">
@@ -27,7 +23,7 @@
         </div>
         {%endif %}
 
-        <!-- div><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ site.t[lang].read-more }}...</a></div -->
+        <div><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ site.t[lang].read-tutorial }}...</a></div>
       <!-- /li -->
     {% endfor %}
   <!-- /ul -->

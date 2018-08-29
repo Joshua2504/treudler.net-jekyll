@@ -80,24 +80,25 @@
       {% endfor %}
     </span>
   {% endif %}
-	<br>Fully static website powered by <a href="//www.jekyllrb.com/" target="_blank">Jekyll</a> building on my <a href="//www.raspberrypi.org/" target="_blank">Raspberry Pi</a> and served by <a href="//www.bunnycdn.com/" target="_blank">BunnyCDN</a>.
+	<br>Fully static website powered by <a href="//www.jekyllrb.com/" target="_blank">Jekyll</a> building on my <a href="//www.raspberrypi.org/" target="_blank">Raspberry Pi</a><br>All content is served by <a href="//www.bunnycdn.com/" target="_blank">BunnyCDN</a>, see my <a href="/bunnycdn.html">statistics</a>.
 <p>&copy; Joshua Treudler</p>
 
 
 </center>
+<!-- Matomo -->
 <script type="text/javascript">
   var _paq = _paq || [];
-  _paq.push(["setCookieDomain", "*.treudler.net"]);
-  _paq.push(["setDomains", ["*.treudler.net"]]);
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//tobiassachs.de/piwik/";
+    var u="//analytics.treudler.net/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 2]);
+    _paq.push(['setSiteId', '2']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<noscript><p><img src="//tobiassachs.de/piwik/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<noscript><p><img src="//analytics.treudler.net/piwik.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
 	</footer>

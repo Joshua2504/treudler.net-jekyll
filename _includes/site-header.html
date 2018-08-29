@@ -28,6 +28,7 @@
             {% if my_page.title %}
               {% if my_page.title contains "404" %}
               {% else %}
+
 			 {% if my_page.menu == 'main' %}
                 <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title | escape }}</a>
              {% endif %}
@@ -35,6 +36,33 @@
             {% endif %}
 
           {% endfor %}
+		  <!-- style>
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style -->
+
+<!-- div class="dropdown">
+  <span>Roadbiking</span>
+  <div class="dropdown-content">
+    <div><a href="{{ site.t[lang].comments }}">{{ site.t[lang].read-tutorial }}...</a></div>
+  </div>
+</div -->
         </div>
       </nav>
     {% endif %}
