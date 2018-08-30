@@ -1,0 +1,39 @@
+pipeline:
+
+	restore-cache-live:
+		image: drillster/drone-volume-cache
+		restore: true
+		mount:
+			- /drone/.bundle
+		volumes:
+			- jekyll-blog-cache:/cache
+
+	build:
+		image: ruby
+		environment:
+			- LANG=C.UTF-8
+			- BUNDLE_PATH=/drone/.bundle
+		commands:
+			- bundle install
+			- bundle exec jekyll build
+
+	rebuild-cache-live:
+		image: drillster/drone-volume-cache
+		rebuild: true
+		mount:
+			- /drone/.bundle
+		volumes:
+			- jekyll-blog-cache:/cache
+
+	deploy-live:
+		image: cschlosser/drone-ftps
+		hostname: storage.bunnycdn.com:21
+		secrets: [ ftp_username, ftp_password ]
+		clean_dir: true
+		secure: true
+		dest_dir: /treudlerwww
+		src_dir: /_site
+		chmod: false
+		exclude:
+			- ^\readme.md$
+      
