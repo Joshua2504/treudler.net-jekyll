@@ -13,7 +13,7 @@ lang: en
 categories: bunnycdn
 ---
 
-Usage cost: $0.33
+Usage cost: $0.36
 
-![](https://cdn.treudler.net/shared/screenshots/2018_08_01_02-04-08_KxVeCkcX30QmIEiH62Eq.png)
+![](https://cdn.treudler.net/shared/screenshots/2018_09_01_15-06-26_fCdFcaGEKRED3XapgArK.png)
 
