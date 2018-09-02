@@ -31,7 +31,7 @@ In the middle of the night, I heard chainsaws and warning horns very near to me 
   Your browser does not support the video tag.
 </video>
 
-I woke up in the morning at around 5:00 AM, and my phone was about to be empty. The sun didn't shine yet (obviously it was really cold), so I drove to thew city center of Brake and charged my phone in a bakery. 
+I woke up in the morning at around 5:00 AM, and my phone was about to be empty. The sun didn't shine yet (obviously it was really cold), so I drove to thew city center of Brake and charged my phone in a bakery.
 
 I started my trip to Emmen in the netherlands. At around 15:30, I crossed the border.
 
@@ -47,6 +47,6 @@ In the evening, I was very unmotivated and I thought about ending my tour and go
 <a href="https://cdn2.treudler.net/bikepacking/bikepacking-july-2018/bike-train.jpeg" target="_blank"><img src="https://cdn2.treudler.net/bikepacking/bikepacking-july-2018/bike-train.jpeg" width="400px" /></a>
 <a href="https://cdn2.treudler.net/bikepacking/bikepacking-july-2018/bike-simon.jpg" target="_blank"><img src="https://cdn2.treudler.net/bikepacking/bikepacking-july-2018/bike-simon.jpg" width="400px" /></a>
 
-After just 20 kilometers with him, I noticed that my constitution isn't ready for that many hills and so much headwind, so I decided to go back home by train.
+After just 20 kilometers with him, I noticed that my stamina isn't ready for that many hills and so much headwind, so I decided to go back home by train.
 
 <a href="https://cdn2.treudler.net/bikepacking/bikepacking-july-2018/meer.jpg" target="_blank"><img src="https://cdn2.treudler.net/bikepacking/bikepacking-july-2018/meer.jpg" width="800px" /></a>
