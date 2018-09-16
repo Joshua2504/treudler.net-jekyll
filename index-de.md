@@ -9,8 +9,6 @@ layout: home
 permalink: /deutsch.html
 header:
   image: /assets/img/header/2018-06-14-index.gif
-tagline: > # this means to ignore newlines until "repository:"
-  Moin moin!
 excerpt: >
   
 ref: home
