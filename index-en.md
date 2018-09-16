@@ -14,7 +14,6 @@ excerpt: >
 ref: home
 lang: en
 ---
-<center><h1>Have you been a customer of mine?<br>Read the <a href="/treudler.html#letter"><u>Open Letter</u></a> to my customers and friends.</h1></center>
 
 Hi there, I'm Joshua, 21yo, riding my cyclocross roadbike nearly 24/7/365. Since a couple of months, I'm doing longer bikepacking trips within Europe. I'm trying to write a blog post for every trip, so enjoy reading :)
 Click here to join my WhatsApp Group with latest updates while I'm touring: [Joshua goes cycling](https://chat.whatsapp.com/1tEksb6yqjj25lcejqDpva)
