@@ -9,8 +9,6 @@ layout: home
 permalink: /index.html
 header:
   image: /assets/img/header/2018-06-14-index.gif
-tagline: > # this means to ignore newlines until "repository:"
-  I'm Joshua, age 21, riding my cyclocross roadbike nearly 24/7/365. Since a couple of months, I’m doing longer bikepacking trips within Europe. I’m also working as Webmaster for different projects.
 excerpt: >
 
 ref: home
