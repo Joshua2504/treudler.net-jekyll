@@ -54,7 +54,8 @@ Die durch die Seitenbetreiber erstellten bzw. verwendeten Inhalte und Werke auf 
 
 ## cor-forum.de Datenschutzerklärung
 
-2. Fassung vom 07.09.2018
+<p>2. Fassung vom 07.09.2018</p>
+
 <strong><br>
 Präambel</strong><br>
 <br>
