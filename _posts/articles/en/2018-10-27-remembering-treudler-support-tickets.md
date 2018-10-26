@@ -21,6 +21,8 @@ Personal data of our previous customers has been grayed out. Enjoy reading! :)
 
 _We can't help you with that, I'm so sorry._
 
+![](https://cdn.treudler.net/18/181026234711grtY7x.png)
+
 ![](https://cdn.treudler.net/18/181026233314-656x170.png)
 
 _Someones music bots in teamspeak were lagging, for some obvious reason:_
