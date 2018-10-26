@@ -15,7 +15,7 @@ categories: articles
 
 I came up with the idea of restoring the Treudler customer database to read all tickets we have ever received.
 
-As far as I can remember, we had a lot of rage on our internal chat groups, causing us to end up with hundred of unanswered tickets. We still had a lot of fun when answering tickets, so here's the "Best of Treudler Support".
+As far as I can remember, we had a lot of rage in our internal chat groups, causing us to end up with hundred of unanswered tickets. We still had a lot of fun when answering tickets, so here's the "Best of Treudler Support".
 
 Personal data of our previous customers has been grayed out. Enjoy reading! :)
 
