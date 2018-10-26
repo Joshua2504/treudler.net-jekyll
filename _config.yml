@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Joshua T. Treudler
+title: Joshua Treudler
 email: joshua@treudler.net
 description: > # this means to ignore newlines until "baseurl:"
    I'm Joshua, age 21, riding my cyclocross roadbike nearly 24/7/365. Since a couple of months, I’m doing longer bikepacking trips within Europe. I’m also working as Webmaster for different projects.
@@ -26,7 +26,7 @@ compress_html:
 # https://jekyllrb.com/docs/permalinks
 permalink: /:title.html
 
-google_analytics: 
+google_analytics:
 
 # jekyll-theme-simple-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -38,7 +38,7 @@ theme: # leave it empty
 show_post_image_posts_list: true
 
 header:
-  image: 
+  image:
 
 # social
 author:
@@ -50,7 +50,7 @@ author:
   picture: assets/img/profile/jt.png
 
 
-image: 
+image:
 
 twitter:
   username: JoTreudler
@@ -135,7 +135,7 @@ t:
     planned-trips: "Geplante Touren"
     planned-trips-url: "geplante-touren.html"
 
-      
+
 defaults:
   -
     scope:
