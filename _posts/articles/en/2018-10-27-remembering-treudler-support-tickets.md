@@ -70,3 +70,5 @@ _We loved turkeys. They're the most dumbest customers._
 _Our servers can talk, too._
 
 ![](https://cdn.treudler.net/18/181026234327Nqqvxx.png)
+
+PS: Take this with some sense of humor. We have offered services to customers all around the globe, and most of them didn't really speak proper english and thereof used google translator.
