@@ -8,9 +8,9 @@
 layout: home
 permalink: /deutsch.html
 header:
-  image: /assets/img/header/2018-06-14-index.gif
+  image: https://cdn.treudler.net/18/1810270113505h8bVx.png
 excerpt: >
-  
+
 ref: home
 lang: de
 ---
