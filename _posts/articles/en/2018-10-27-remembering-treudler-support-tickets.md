@@ -1,23 +1,23 @@
 ---
 layout: post
 tagline: "Remembering Treudler: Read a few of the most funniest support tickets we've ever received"
-title: "Remembering the most funniest Treudler Support Tickets"
-image:
+title: "Remembering the most funniest Treudler Support Tickets - Part 1"
+image: https://cdn.treudler.net/18/181027005915bT0lDx.png
 header:
-  image: ""
-  previmage: ""
+  image: "https://cdn.treudler.net/18/181027005915bT0lDx.png"
+  previmage: "https://cdn.treudler.net/18/181027005915bT0lDx.png"
 tags: ["treudler"]
 keywords:
-ref: remembering-treudler-support-tickets
+ref: remembering-treudler-support-tickets-1
 lang: en
 categories: articles
 ---
 
-I came up with the idea of restoring the Treudler customer database to read all tickets we have ever received.
+I came up with the idea of restoring the Treudler customer database to read all tickets that we've ever received.
 
-As far as I can remember, we had a lot of rage in our internal chat groups, causing us to end up with hundred of unanswered tickets. We still had a lot of fun when answering tickets, so here's the "Best of Treudler Support".
+As far as I can remember, we had a lot of rage in our internal chat groups, causing us to end up with hundreds of unanswered tickets. We still had a lot of fun while answering tickets, so here's the "Best of Treudler Support - Part 1".
 
-Personal data of our previous customers has been grayed out. Enjoy reading! :)
+Personal data of our previous customers has been grayed out. Don't take this too serious. As our customers came from all around the globe, some if them have used machine translation. Enjoy reading! :)
 
 _We can't help you with that, I'm so sorry._
 
@@ -29,7 +29,7 @@ _Someones music bots in teamspeak were lagging, for some obvious reason:_
 
 > no problem but the music boats on ts3 are late
 
-_unknown source, quoted by Ja._
+_unknown source, both quoted by Ja._
 
 > can add cpu to 1 , with the balance of the money sleep.
 
@@ -63,12 +63,10 @@ _Yes, dedicated servers are likely being hosted on a virtual server._
 
 ![](https://cdn.treudler.net/18/181026233917pW3G3x.png)
 
-_We loved turkeys. They're the most dumbest customers._
+_We loved turkeys. They've been the most funniest people._
 
 ![](https://cdn.treudler.net/18/181026234057eeBwmx.png)
 
 _Our servers can talk, too._
 
 ![](https://cdn.treudler.net/18/181026234327Nqqvxx.png)
-
-PS: Take this with some sense of humor. We have offered services to customers all around the globe, and most of them didn't really speak proper english and thereof used google translator.
