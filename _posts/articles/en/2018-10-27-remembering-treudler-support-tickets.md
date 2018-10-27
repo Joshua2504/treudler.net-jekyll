@@ -17,13 +17,11 @@ I came up with the idea of restoring the Treudler customer database to read all 
 
 As far as I can remember, we had a lot of rage in our internal chat groups, causing us to end up with hundreds of unanswered tickets. We still had a lot of fun while answering tickets, so here's the "Best of Treudler Support - Part 1".
 
-Personal data of our previous customers has been grayed out. Don't take this too serious. As our customers came from all around the globe, some if them have used machine translation. Enjoy reading! :)
+Personal data of our previous customers has been grayed out. Don't take this too serious. As our customers came from all around the globe, some of them have used machine translation. Enjoy reading! :)
 
 _We can't help you with that, I'm so sorry._
 
 ![](https://cdn.treudler.net/18/181026234711grtY7x.png)
-
-![](https://cdn.treudler.net/18/181026233314-656x170.png)
 
 _Someones music bots in teamspeak were lagging, for some obvious reason:_
 
@@ -43,8 +41,6 @@ _Some more..._
 
 ![](https://cdn.treudler.net/18/181026233314-656x170.png)
 
-![](https://cdn.treudler.net/18/181026233314-656x170.png)
-
 ![](https://cdn.treudler.net/18/181026233820-685x122.png)
 
 ![](https://cdn.treudler.net/18/181026234001sK20ux.png)
@@ -52,8 +48,6 @@ _Some more..._
 ![](https://cdn.treudler.net/18/181026234205-772x417.png)
 
 _Yes, I will reinstall your server, then you can access your data - that makes sense!_
-
-![](https://cdn.treudler.net/18/181026233314-656x170.png)
 
 _ah!_
 
