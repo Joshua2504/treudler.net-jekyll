@@ -12,7 +12,7 @@ header:
 ref: phasmiden
 lang: en
 order: 1
-menu: main
+menu: none
 categories: Stick
 ---
 
