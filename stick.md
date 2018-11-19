@@ -12,7 +12,7 @@ header:
 ref: stick
 lang: en
 order: 1
-menu: main
+menu: none
 categories: Stick
 ---
 
